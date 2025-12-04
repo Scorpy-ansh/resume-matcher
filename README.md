@@ -116,45 +116,41 @@ streamlit run app.py
 http://localhost:8501
 pytest
 ```
-📊 Example Use Cases
+## 📊 Example Use Cases
 
-HR teams screening applicants
+- HR teams screening applicants  
+- Students matching resumes to internships  
+- Automated resume ranking systems  
+- Job-application optimization  
+- ATS enhancement projects  
 
-Students matching resumes to internships
+---
 
-Automated resume ranking systems
+## 🛠 Future Enhancements
 
-Job-application optimization
+- Cross-encoder re-ranking  
+- OCR support for scanned PDFs  
+- Multi-language resume support  
+- Experience/education extraction  
+- API version for ATS integrations  
 
-ATS enhancement projects
+---
 
-🛠 Future Enhancements
+## 🤝 Contributing
 
-Cross-encoder re-ranking
+Pull requests are welcome. Open an issue if you want improvements or new features.
 
-OCR support for scanned PDFs
+---
 
-Multi-language resume support
-
-Experience/education extraction
-
-API version for ATS integrations
-
-🤝 Contributing
-
-Pull requests are welcome.
-Open an issue if you want improvements or new features.
-
-📄 License
+## 📄 License
 
 MIT License.
 
-🙏 Acknowledgements
+---
 
-Streamlit
+## 🙏 Acknowledgements
 
-HuggingFace Sentence-Transformers
-
-scikit-learn
-
-spaCy
+- Streamlit  
+- HuggingFace Sentence-Transformers  
+- scikit-learn  
+- spaCy  
