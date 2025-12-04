@@ -1,0 +1,7 @@
+Data Analyst
+Responsibilities:
+- Analyze datasets and produce dashboards using SQL and Tableau.
+Required:
+- Strong SQL experience and knowledge of Python (pandas).
+Nice to have:
+- Experience with ETL pipelines and PostgreSQL.

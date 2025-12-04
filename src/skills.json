@@ -1,0 +1,10 @@
+{
+    "skills": [
+      "python", "pandas", "numpy", "scikit-learn", "tensorflow", "pytorch",
+      "sql", "postgresql", "mysql", "aws", "azure", "gcp", "docker", "kubernetes",
+      "streamlit", "opencv", "nlp", "bert", "transformer", "flask", "django",
+      "matplotlib", "seaborn", "plotly", "spark", "hadoop", "jupyter", "git",
+      "rest api", "fastapi", "regex", "c++", "java", "react", "node.js"
+    ]
+  }
+  

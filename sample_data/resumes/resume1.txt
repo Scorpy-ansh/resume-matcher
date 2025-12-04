@@ -1,0 +1,13 @@
+John Doe
+Email: john.doe@example.com
+Phone: +91 99999 11111
+
+Summary:
+ML engineer with 3 years experience building models in python using scikit-learn and pytorch.
+Worked with tensorflow for production systems, dockerized services and deployed on AWS.
+
+Experience:
+- Built classification pipelines using pandas, numpy, scikit-learn.
+- Developed training pipelines with PyTorch and TensorFlow.
+- Deployed models as REST APIs using Flask and Docker.
+- Worked on NLP projects using BERT transformers and HuggingFace.

@@ -1,0 +1,12 @@
+We are hiring a Machine Learning Engineer.
+
+Responsibilities:
+- Build and productionize machine learning models.
+- Work with TensorFlow or PyTorch and deploy using Docker to AWS.
+
+Required:
+- Must have 2+ years experience with Python, TensorFlow or PyTorch, and Docker.
+- Required skills: python, docker, aws, pytorch or tensorflow.
+
+Preferred:
+- Nice to have: experience with NLP, BERT, transformers, and HuggingFace.

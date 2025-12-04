@@ -1,0 +1,5 @@
+Arjun Patel
+Contact: arjun.patel@mail.com
+
+Summary:
+Research intern with focus on NLP, transformers, BERT fine-tuning and PyTorch. Used HuggingFace and spaCy for preprocessing. Familiar with AWS and Docker.

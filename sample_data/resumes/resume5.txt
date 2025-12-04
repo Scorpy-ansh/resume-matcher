@@ -1,0 +1,4 @@
+Ravi Verma
+
+Summary:
+DevOps engineer experienced in Docker, Kubernetes, AWS, CI/CD pipelines, and monitoring. Scripted tools in Python and Bash.

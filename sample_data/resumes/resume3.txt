@@ -1,0 +1,6 @@
+Priya Kumar
+Email: priya.kumar@mail.com
+
+Summary:
+Software engineer with experience in Java, C++, React and Node.js. Basic knowledge of machine learning concepts and using scikit-learn.
+

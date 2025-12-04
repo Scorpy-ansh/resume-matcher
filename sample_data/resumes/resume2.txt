@@ -1,0 +1,7 @@
+Jane Smith
+Email: jane.smith@samplemail.com
+Phone: 88888 22222
+
+Summary:
+Data analyst with strong SQL, Tableau and Python skills. Experience with pandas, matplotlib and seaborn for reporting.
+Worked with ETL pipelines and PostgreSQL.
